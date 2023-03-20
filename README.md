@@ -1,6 +1,6 @@
 # assets
 
-_Assets for SideStore such as icons, screenshots and more._
+_Assets for [SideStore](https://github.com/sidestore/sidestore) such as icons, screenshots and more._
 
 [![pages-build-deployment](https://github.com/SideStore/assets/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SideStore/assets/actions/workflows/pages/pages-build-deployment)
 
