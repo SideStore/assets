@@ -1,0 +1,14 @@
+{
+  "base": "https://sidestore.io/assets/icons/",
+  "cache": "index.json.hash",
+  "sections": [
+    {
+      "name": "Classic",
+      "url": "classic/"
+    },
+    {
+      "name": "Glass",
+      "url": "glass/"
+    }
+  ]
+}

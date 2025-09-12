@@ -1,0 +1,58 @@
+{
+  "base": "https://sidestore.io/assets/icons/classic/",
+  "cache": "index.json.hash",
+  "icons": [
+    {
+      "name": "Default",
+      "url": "Default.png"
+    },
+    {
+      "name": "Default - Dark",
+      "url": "Default.dark.png"
+    },
+    {
+      "name": "Blue",
+      "url": "Blue.png"
+    },
+    {
+      "name": "Dark",
+      "url": "Dark.png"
+    },
+    {
+      "name": "Honeydew",
+      "url": "Honeydew.png"
+    },
+    {
+      "name": "Pride",
+      "url": "Pride.png"
+    },
+    {
+      "name": "Sandy",
+      "url": "Sandy.png"
+    },
+    {
+      "name": "Sky",
+      "url": "Sky.png"
+    },
+    {
+      "name": "Snow",
+      "url": "Snow.png"
+    },
+    {
+      "name": "Snow",
+      "url": "Starburst.png"
+    },
+    {
+      "name": "Snow",
+      "url": "Storm.png"
+    },
+    {
+      "name": "Snow",
+      "url": "Vista.png"
+    },
+    {
+      "name": "Winter",
+      "url": "Winter.png"
+    }
+  ]
+}
